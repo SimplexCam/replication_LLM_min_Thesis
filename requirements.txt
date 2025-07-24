@@ -1,0 +1,15 @@
+openai
+anthropic
+bertopic
+umap-learn
+hdbscan
+scikit-learn
+sentence-transformers
+pandas
+tqdm
+matplotlib
+seaborn
+scipy
+statsmodels
+# psychobench: Clone PsychoBench manually: https://github.com/CUHK-ARISE/PsychoBench
+
